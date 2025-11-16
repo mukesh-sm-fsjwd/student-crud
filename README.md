@@ -88,7 +88,15 @@ ALTER USER studuser WITH SUPERUSER;
 ## 📸 Screenshots
 
 ### Home Page
-(Add screenshot here)
+<img width="1365" height="650" alt="image" src="https://github.com/user-attachments/assets/a0d91967-5035-4436-9a3a-f38216f6e6c6" />
+<img width="1364" height="648" alt="image" src="https://github.com/user-attachments/assets/c9c68cbb-7bdf-4d58-8862-eee79ced26e0" />
+<img width="1366" height="647" alt="image" src="https://github.com/user-attachments/assets/69631c27-8b6e-4948-8db2-2cc608674d11" />
+<img width="1011" height="105" alt="image" src="https://github.com/user-attachments/assets/1e35b27a-42d2-4ac2-bba7-f8a768e46039" />
+<img width="1362" height="646" alt="image" src="https://github.com/user-attachments/assets/6d998178-776c-4ddc-8512-1552ec99c078" />
+<img width="1364" height="647" alt="image" src="https://github.com/user-attachments/assets/f471a607-4dbe-4da9-9077-00db2e060c57" />
+<img width="1366" height="646" alt="image" src="https://github.com/user-attachments/assets/96f062b8-ac0d-4026-b672-7a3c9b9614a4" />
+<img width="1054" height="166" alt="image" src="https://github.com/user-attachments/assets/30b0f6c5-c103-496a-9979-1d7c87d2e70e" />
+
 
 ---
 
