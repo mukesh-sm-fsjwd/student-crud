@@ -89,6 +89,7 @@ ALTER USER studuser WITH SUPERUSER;
 
 ### Home Page
 <img width="1365" height="650" alt="image" src="https://github.com/user-attachments/assets/a0d91967-5035-4436-9a3a-f38216f6e6c6" />
+
 ### Add Students Page
 <img width="1364" height="648" alt="image" src="https://github.com/user-attachments/assets/c9c68cbb-7bdf-4d58-8862-eee79ced26e0" />
 - Adding Student Data
